@@ -10,9 +10,10 @@
 
 ## Tecnologias Usadas
 
-### ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo.svg/1024px-HTML5_logo.svg.png) HTML5
-### ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CSS3_logo.svg/1024px-CSS3_logo.svg.png) CSS3
-### ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.svg/1200px-JavaScript-logo.svg.png) JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Vercel**
 
 ## Como Funciona
 
